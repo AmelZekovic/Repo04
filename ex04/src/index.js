@@ -1,7 +1,7 @@
 function main(){
 
     var myDecimal = 5.4;
-    var myDecimalE = 0.00254;
+    var myDecimalE = 2.54e-3;
     
     return {
         myDecimal,
