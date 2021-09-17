@@ -1,6 +1,6 @@
 function main(numOne, numTwo){
-    var numOne;
-    var numTwo;
+    var numOne = parseFloat;
+    var numTwo = parseFloat;
     var product = numOne * numTwo;
     return product;
 }
